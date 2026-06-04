@@ -9,6 +9,5 @@ I am a Computer Engineering student based in Greece, with a deep passion for Cyb
 
 ### 💻 Tech Stack
 *   **Languages:** Python (Automation/Scripting), C (Low-level/Fundamentals)
-*   
-*   
+*   **Vulnerabilities:** XSS,SQL Injection
 
